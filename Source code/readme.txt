@@ -3,4 +3,4 @@ To run the "ExtractFeatures.java" file you will need the Uacari library, which c
 https://github.com/Oyatsumi/Uacari
 
 
-Or compressed in a file within this folder.
+It can also be found compressed in a file within this folder.
